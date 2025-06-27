@@ -10,8 +10,9 @@ A full-stack real-time chat application built with **Spring Boot (Backend)** and
 ![Chat Interface](screenshots/![chat interface](https://github.com/user-attachments/assets/8e338c66-5179-441a-ba6e-52b780503d87)
 )
 
-### 📱 Mobile View
-![Mobile View](screenshots/![joinininterface](https://github.com/user-attachments/assets/5d637b9a-787e-4377-a295-a3601c8c469d)
+### 📱 Join / Create Page
+![Join / Create Page](screenshots/![joinininterface](https://github.com/user-attachments/assets/2d60e9fd-a54b-466a-ae42-924bcdc19a6f)
+
 )
 
 > 📁 Place your screenshots inside a `screenshots/` folder in the root directory.
